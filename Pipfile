@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+psutil = "*"
+cv2 = "*"
+sg = "*"
+tk = "*"
+numpy = "*"
+scipy = "*"
+fpdf = "*"
+pillow = "*"
+pil = "*"
+image = "*"
+
+[requires]
+python_version = "3.8"
